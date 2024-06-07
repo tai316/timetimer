@@ -9,3 +9,6 @@
 以下を実行。
 
 python3 main.py
+
+
+Copyright (c) 2024 AokiTai
