@@ -1,1 +1,3 @@
 # timetimer
+
+このリポジトリはtimetimerのプログラムを書いています。
