@@ -1,0 +1,1 @@
+([('main', '/Users/tai/Desktop/timetimer/timetimer/dist/main', 'EXECUTABLE')],)
